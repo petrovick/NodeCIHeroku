@@ -8,6 +8,5 @@ deploy:
   app: nodeciheroku
   on:
     repo: petrovick/NodeCIHeroku
-script: make test-coveralls
 after_success:
   coveralls
