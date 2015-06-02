@@ -5,11 +5,11 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielfs/node-api.git"
+    "url": "https://github.com/petrovick/NodeCIHeroku.git"
   },
-  "author": "Daniel Fernandes Silva",
+  "author": "Gabriel Petrovick",
   "bugs": {
-    "url": "https://github.com/danielfs/node-api/issues"
+    "url": "https://github.com/petrovick/NodeCIHeroku/issues"
   },
   "scripts": {
     "start": "node server.js",
@@ -18,7 +18,7 @@
   "engines": {
     "node": "0.12.2"
   },
-  "homepage": "https://github.com/danielfs/node-api",
+  "homepage": "https://github.com/petrovick/NodeCIHeroku",
   "dependencies": {
     "accounting": "^0.4.1",
     "body-parser": "^1.12.4",
