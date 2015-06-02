@@ -8,5 +8,3 @@ deploy:
   app: nodeciheroku
   on:
     repo: petrovick/NodeCIHeroku
-after_success:
-  coveralls
